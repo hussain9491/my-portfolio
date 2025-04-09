@@ -1,3 +1,9 @@
+This is my 2nd personal portflio created with NEXTJS and Talwind CSS
+portfolio for python full stack developer
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
